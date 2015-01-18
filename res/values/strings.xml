@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NormMaker</string>
+    <string name="face">Face</string>
+    <string name="abbreviation">Abbreviation:</string>
+    <string name="hint">Enter Test Subject Abbreviation, e.g., MM</string>
+    <string name="dot_pattern">Dot Pattern:</string>
+    <string name="face_pattern">Distance:</string>
+    <string name="light_pattern">Light:</string>    
+    <string name="start">Start</string>
+
+</resources>

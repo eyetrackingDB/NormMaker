@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="ClickableViewAccessibility">
+        <ignore path="src/de/vion/normmaker/CameraActivity.java" />
+        <ignore path="src/de/vion/normmaker/MainActivity.java" />
+    </issue>
+    <issue id="InflateParams">
+        <ignore path="src/de/vion/normmaker/CameraActivity.java" />
+        <ignore path="src/de/vion/normmaker/MainActivity.java" />
+    </issue>
+</lint>
