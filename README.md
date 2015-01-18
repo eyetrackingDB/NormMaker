@@ -1,12 +1,14 @@
 # NormMaker
 
 Copyright (C) 2014-2015, André Pomp <andre.pomp@rwth-aachen.de>
+
 Copyright (C) 2014-2015, Jó Ágila Bitsch <jo.bitsch@comsys.rwth-aachen.de>
+
 Copyright (C) 2014-2015, Oliver Hohlfeld <oliver.hohlfeld@comsys.rwth-aachen.de>
+
 Copyright (C) 2014-2015, Chair of Computer Science 4, RWTH Aachen University, <klaus@comsys.rwth-aachen.de>
 
-FREE SOFTWARE
-#############
+#### FREE SOFTWARE
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 2 of the License, or (at your option) any later version.
 
@@ -14,15 +16,13 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 You should have received a copy of the GNU General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-IF YOU NEED ANOTHER LICENSE
-###########################
+#### IF YOU NEED ANOTHER LICENSE
 
 If you are planning to integrate NormMaker into a commercial product, please contact us for licensing options via email at:
 
-  jo.bitsch@cs.rwth-aachen.de
+  jo.bitsch@comsys.rwth-aachen.de
 
-HOW TO USE THIS SOFTWARE
-########################
+####HOW TO USE THIS SOFTWARE
 * Clone the git repository
 * Compile it using an Android API of v19 or later
 * Run it
